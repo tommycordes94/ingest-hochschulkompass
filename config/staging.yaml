@@ -1,0 +1,3 @@
+project: "trd-dwh-dev"
+base_path: "gs://trd-dwh-dev/datalake"
+uni_mapper_url: https://university-mapper-tcvu73msma-ey.a.run.app

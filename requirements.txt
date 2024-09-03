@@ -1,0 +1,8 @@
+Flask==2.0.2
+gunicorn==20.1.0
+requests
+Werkzeug==2.2.2
+
+./libs/trd_pipelines-0.3.8-py3-none-any.whl
+
+

@@ -1,0 +1,3 @@
+base_path: /Users/tomcordes/Documents/local_lake
+#uni_mapper_url: https://university-mapper-tcvu73msma-ey.a.run.app
+uni_mapper_url: http://127.0.0.1:8080

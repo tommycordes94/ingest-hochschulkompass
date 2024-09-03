@@ -1,0 +1,2 @@
+project: "trd-lakehouse"
+base_path: "gs://trd-lake"
